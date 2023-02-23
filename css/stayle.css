@@ -49,3 +49,30 @@ img{
     border-radius: 15px;
     margin-left: 68%;
 }
+
+.about__title2{
+    width: 100%;
+    height: 100%;
+    padding-top: 30%;
+}
+.about__title2 h1{
+    text-align: start;
+    margin-bottom: 1.8rem;
+}
+.about__title2 p{
+    text-align: start;
+    opacity: 0.6;
+    font-weight: 900;
+    margin-bottom: 3.5rem;
+}
+.about__title2 button{
+    text-transform: capitalize;
+    color: white;
+    border: none;
+    background-color: #FDD31D;
+    padding-left: 9%;
+    padding-bottom: 1rem;
+    padding-right: 9%;
+    padding-top: 1rem;
+    border-radius: 15px;
+}
